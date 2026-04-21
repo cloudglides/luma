@@ -1,0 +1,10 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"heat gun","melting the solder",,7.16,"https://www.amazon.in/Temperature-Airflow-Control-Removal-Shrinking/dp/B0F4DMFBHD/524-4918151-6071763?pd_rd_w=AKdQr&content-id=amzn1.sym.e84a26b2-5470-42e6-b7fa-162e7bb17185&pf_rd_p=e84a26b2-5470-42e6-b7fa-162e7bb17185&pf_rd_r=XZ004FM282GZEG9085Q8&pd_rd_wg=BjtO2&pd_rd_r=cec51953-bb81-405f-a679-046019409d9f&pd_rd_i=B0F4DMFBHD&th=1","amazon"
+"solder paste","solder paste to solder!",2,5.21,"https://www.amazon.in/Syringe-Circuit-Assembly-Mechanic-Soldering/dp/B0G6DGC3HP?crid=3CUSEGUK3MH5B&dib=eyJ2IjoiMSJ9.C1gDmtNo-y6VAZbUB7g7Rpi2QTk1Qi6bqcUZTvfsHymcQ9ibw2n0R57TT0naD6M1ffqCiYAdWOvf_y977ckRy06lUMmXXdyTsNMFSu7-hOJej1jtk3hMIb_1sjPQl3FpDUSs-csYBEYe2EAb5zL9GytNiCf2qaCiwatQJelOwecsL1nfW6ExOEWg6W_F73wZmZ8VRXfzfThMC7GGmvaH17Ofl4WJ5fxXndy8dVZFuhhOnTqjRGcIOY8b-7jqixqwg7852uK_gYZ9VLW4qTCxKRq7JiDvyze-Lfjw8OTnQ5I.BXmcXwuWZBpzvyfF5GwkA2XO-umkeRJ1QHOx4OpeEQk&dib_tag=se&keywords=solder+paste&qid=1776786813&sprefix=solder+pas%2Caps%2C481&sr=8-17","amazon"
+"filament ","filament to print the case! (case is 250g so kinda worth it)",1,6.24,"https://india.numakers.com/products/pla-filament?variant=44123925610665","numakers"
+"1N4148WT diode","diode duh",100,0.02,"https://robu.in/product/1n4148wt-semtech-100v-independent-type-1v50ma-4ns-125ma-sod-523-switching-diodes-rohs","robu"
+"keycaps","keycaps duh",1,25.00,"https://curiositycaps.in/products/ocean-heart-dual-legends-backlit-keycaps","curiosity caps"
+"pcb","pcb duh",1,30.00,"https://cart.jlcpcb.com/shopcart/cart/","jlcpcb"
+"switches","switches duh",2,12.82,"https://stackskb.com/store/akko-v5-creamy-blue-pro-switch-pack-of-45/","stackskb"
+"rpi pico","micro controller",1,4.24,"https://robocraze.com/products/raspberry-pi-pico?_pos=2&_psq=pico&_ss=e&_v=1.0","robucraze"
+"HTC 830L+ Digital Multimeter","checking the voltage! keyboards have gazllion diodes and i need to verify alot of them (duh because matrix)",1,7.31,"https://robu.in/product/htc-830l-digital-multimeter","Robu"

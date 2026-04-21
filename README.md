@@ -1,7 +1,8 @@
 # Luma
 It is a 75% layout, mechanical keyboard!  
 
-<img width="737" height="338" alt="Screenshot_From_2026-04-21_20-25-39-removebg-preview" src="https://github.com/user-attachments/assets/47df2df6-5f56-4deb-a98c-3995f39ab6c8" />
+<img width="1920" height="691" alt="image" src="https://github.com/user-attachments/assets/e966e066-3188-4bb4-930a-5cb5dfbda956" />
+
 
 
 I made this project because I wanna checkout how matrixs work. This would be my first keyboard!
@@ -24,9 +25,9 @@ The case is designed to be 3D printed!
 
 | Case top view|
 | --- |
-| <img width="1071" height="424" alt="image" src="https://github.com/user-attachments/assets/cf710e6a-2722-4541-82bb-27f541facfd1" /> |
+| <img width="1920" height="691" alt="image" src="https://github.com/user-attachments/assets/2ea41bd5-f277-478b-a792-16cdc6f66b1f" /> |
 
 | Case bottom View|
 | --- |
-| <img width="1071" height="424" alt="image" src="https://github.com/user-attachments/assets/644b04d0-921f-4c83-9de3-e58919da6fa7" /> |
+| <img width="1920" height="691" alt="image" src="https://github.com/user-attachments/assets/711081e0-b66b-4c4a-9713-4c19d1c7fadd" /> |
 
